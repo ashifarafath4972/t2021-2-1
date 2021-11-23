@@ -1,3 +1,3 @@
 # t2021-2-1
-using python language
+using python language.
 program push in master
